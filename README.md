@@ -1,3 +1,1 @@
-# login-php-mysql
-
-Detail tutorial ada disini https://ngide.net/php-login-dan-logout-mysql/
+Project sederhana dashboard untuk auth menggunakan postgreSQL dan PHP
